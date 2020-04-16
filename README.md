@@ -4,3 +4,6 @@ and then compute 128-d embedding vector of face and then apply Random Forest Mac
 and finally recognize the faces in images and in video. if you have any query or question related to this project, you can email me at 
 khizersultan007@gmail.com without any hesitation.
 Happy Learning.
+
+
+![Capture](https://user-images.githubusercontent.com/30461028/79461708-6347b380-7fab-11ea-8b77-e83a6f9e9902.PNG)
