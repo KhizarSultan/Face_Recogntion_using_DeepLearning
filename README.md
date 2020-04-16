@@ -5,10 +5,8 @@ and finally recognize the faces in images and in video.
 
 ![face_attandance](https://user-images.githubusercontent.com/30461028/79461965-bb7eb580-7fab-11ea-8430-5c14b4e7a915.PNG)
 
-![Capture](https://user-images.githubusercontent.com/30461028/79461708-6347b380-7fab-11ea-8b77-e83a6f9e9902.PNG)
+You can Download the Full Project from my drive :)
 
-
-Download the Full Project from my drive :)
 https://drive.google.com/open?id=1-A3qk5ESd3AM9McHa2WQ0Ie29Si1-wse
 
 if you have any query or question related to this project, you can email me at 
